@@ -32,5 +32,5 @@ python3 question3.py
 # returns your grade is B 
 
 ```
-## Video link
-
+## Video link 
+  https://photos.google.com/share/AF1QipP85bvbxxMPraMhQZjnem9nJJ4xj9O-MwaQnF8JwypU12t4zIdRxvJG3jCZw6fg6A?key=Mi1rWjVaellENDBpQzJLeXcxaW5hdGFYWUpzcjRB
